@@ -6,9 +6,9 @@
 
 # Table of Contents
 - Welcome
-  - Finding Your Way Around Kali
+  - [Finding Your Way Around Kali](#finding-your-way-around-kali)
     - [Find, Locate, and Which](#find-locate-and-which)
-  - Managing Kali Linux Services(#managing-kali-linux-services)
+  - [Managing Kali Linux Services](#managing-kali-linux-services)
     - [SSH Service](#ssh-service)
     - [HTTP Service](#http-service)
     - [Service Management](#service-management)
